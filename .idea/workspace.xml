@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="758fde67-50bf-4e86-ba91-574ee9c19a31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-helloworld-app/src/com/alex/scanner/ScannerDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-basic-app/src/com/alex/variable/ASCII.java" afterDir="false" />
+    <list default="true" id="758fde67-50bf-4e86-ba91-574ee9c19a31" name="Changes" comment="Scanner">
+      <change afterPath="$PROJECT_DIR$/day01-helloworld-app/src/com/alex/loop/While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alexlee910116"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bc71188a-7a36-4a8d-9e48-d3bc4bb6dd1e" />
+        <option name="url" value="https://github.com/alexlee910116/javaespro.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2ZEter7V3DdtUJK7ozH1auaWPO2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +53,7 @@
     "Application.LiteralDemo.executor": "Run",
     "Application.Note.executor": "Run",
     "Application.ScannerDemo1.executor": "Run",
+    "Application.While.executor": "Run",
     "Application.note.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ScannerDemo1">
+  <component name="RunManager" selected="Application.While">
     <configuration name="ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alex.variable.ASCII" />
       <module name="day02-basic-app" />
@@ -109,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="note" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.hello.note" />
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.loop.While" />
       <module name="day01-helloworld-app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.hello.*" />
+          <option name="PATTERN" value="com.alex.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.While" />
         <item itemvalue="Application.ScannerDemo1" />
         <item itemvalue="Application.ASCII" />
         <item itemvalue="Application.LiteralDemo" />
         <item itemvalue="Application.Note" />
-        <item itemvalue="Application.note" />
       </list>
     </recent_temporary>
   </component>
@@ -147,8 +160,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701999165346</updated>
-      <workItem from="1701999166946" duration="9570000" />
+      <workItem from="1701999166946" duration="10996000" />
     </task>
+    <task id="LOCAL-00001" summary="Scanner">
+      <option name="closed" value="true" />
+      <created>1702271092357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702271092357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Scanner">
+      <option name="closed" value="true" />
+      <created>1702271112265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702271112265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,5 +186,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scanner" />
   </component>
 </project>
