@@ -12,6 +12,6 @@ public class While {
             count++;
         }
         System.out.println( count + " times to fold to over the Himalaya"  );
-        
+
     }
 }
